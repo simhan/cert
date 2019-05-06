@@ -1,2 +1,2 @@
 # cert
-Certifications
+List of relevant certifications
